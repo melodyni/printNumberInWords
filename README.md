@@ -5,4 +5,5 @@
 -this tells number in words from 1 to 100 only.
 
 ###syntax
--node printNumberInWords 67
+````node printNumberInWords 67
+````
