@@ -1,0 +1,24 @@
+{
+  "name": "printnumbername",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printNumberNames.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node printNumberNames.js 67",
+    "test": "mocha",
+    "prettify": "prettier --write src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyni/printNumberInWords.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodyni/printNumberInWords/issues"
+  },
+  "homepage": "https://github.com/melodyni/printNumberInWords#readme"
+}
